@@ -1,0 +1,26 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniAleks/Client-Provider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniAleks/Client-Provider/issues"
+  },
+  "homepage": "https://github.com/AniAleks/Client-Provider#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-status": "^1.5.0",
+    "lodash": "^4.17.21",
+    "luxon": "^1.27.0",
+    "mongoose": "^5.12.9"
+  },
+  "description": "Client Provider Form NodeJS"
+}
